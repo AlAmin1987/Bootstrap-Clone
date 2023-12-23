@@ -19,12 +19,18 @@
 
 }
 
-.hero-position {
-    margin-top: 150px;
+.hero-position  {
+   padding-top: 150px;
     /* margin-left: 350px; */
    
    
 }
 .hero-position h3{
     color: rgb(10, 75, 140);
+}
+
+
+.my-images{
+  align-self: center;
+  margin-top: 10px;
 }
