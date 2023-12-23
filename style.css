@@ -1,0 +1,30 @@
+
+.my-card-img{
+    border: none;
+}
+
+.card {
+    border: none !important;
+}
+
+.my-btn{
+    margin-left: 60px;
+}
+
+.hero-image{
+    background-image: url(./images/galary\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+
+}
+
+.hero-position {
+    margin-top: 150px;
+    /* margin-left: 350px; */
+   
+   
+}
+.hero-position h3{
+    color: rgb(10, 75, 140);
+}
